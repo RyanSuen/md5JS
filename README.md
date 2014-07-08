@@ -7,8 +7,8 @@ md5.js是基于jQuery的md5加密插件
 </p>
 <p>
   
-    	script src="http://code.jquery.com/jquery-latest.js"></script
-      script src="md5.js"></script
+    	http://code.jquery.com/jquery-latest.js
+      md5.js
   
 </p>
 <p>
